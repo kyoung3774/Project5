@@ -25,8 +25,7 @@ class Person {
 	boolean maritalStatus;
 	int child;
 
-	Person() {
-	};
+	Person() {};
 
 	Person(String name, int age, boolean maritalStatus, int child) {
 		this.name = name;
